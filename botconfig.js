@@ -20,7 +20,7 @@ module.exports = {
    Lavalink: {
     id: "Main",
     host: "https://zyzzlavalink.herokuapp.com",
-    port: 5000,
+    port: 57105,
     pass: "youshallnotpass", 
     secure: true, // Set this to true if you're self-hosting lavalink on replit.
   },
